@@ -25,7 +25,7 @@
 - SYSTEM ADMIN
 - WEB PENTESTER
 
-## Contact ⚡
+## Contact 📲
 - [Email](mailto:wannaajhonson@gmail.com)  
 
 
