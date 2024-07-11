@@ -1,16 +1,19 @@
-## Hi there 👋
+## Presentation ⚡
 
-<!--
-**Jhonsonwannaa/Jhonsonwannaa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+⚡ My first name is jhonson, I am Congolese, child of God and patriot
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## About Me ⚡
+- Passionate developer
+- CTF PLAYER
+- Interests: Video games, music, football 
+
+## Skills 🔭
+- Programming languages: python, bash, C
+- SYSTEM ADMIN
+- WEB PENTESTER
+
+## Contact ⚡
+- [Email](mailto:wannaajhonson@gmail.com)  
+
+
