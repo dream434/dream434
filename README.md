@@ -24,6 +24,7 @@
 - Programming languages: python, bash, C
 - SYSTEM ADMIN
 - WEB PENTESTER
+- INFOGRAPHISTE
 
 ## Contact 📲
 - [Email](mailto:wannaajhonson@gmail.com)  
