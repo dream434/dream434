@@ -25,6 +25,7 @@
 - SYSTEM ADMIN
 - WEB PENTESTER
 - INFOGRAPHISTE
+- IT SUPPORT
 
 ## Contact 📲
 - [Email](mailto:wannaajhonson@gmail.com)  
