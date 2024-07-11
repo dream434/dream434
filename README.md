@@ -4,9 +4,9 @@
 
 ## My favorite quotes ⛹️‍♂
 
-"The world of reality has its limits; The world of imagination is borderless." - J.jacques rousseau
+"The world of reality has its limits; The world of imagination is borderless." - Jean jacques rousseau
 
-"The sword wears out the scabbard."  - J.jacques rousseau
+"The sword wears out the scabbard."  - Jean jacques rousseau
 
 "True joy comes from recognizing the beauty in every moment of life." – Ralph Marston
 
