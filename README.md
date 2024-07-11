@@ -22,7 +22,6 @@
 
 ## Skills 🔭
 - Programming languages: python, bash, C
-- SYSTEM ADMIN
 - WEB PENTESTER
 - INFOGRAPHISTE
 - IT SUPPORT
