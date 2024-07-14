@@ -26,7 +26,7 @@
 - INFOGRAPHISTE
 - IT SUPPORT
 
-## Contact 📲
+## Contact Me 📲
 - [Email](mailto:wannaajhonson@gmail.com)  
 
 
