@@ -31,8 +31,8 @@
 
 ## Skills 🔭
 - Programming languages: python, bash, C
-- WEB PENTESTER
-- INFOGRAPHISTE
+- SENIOR PENTESTER
+- GRAPHISTE
 - IT SUPPORT
 
 ## Contact Me 📲
