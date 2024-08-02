@@ -20,7 +20,7 @@
 - CTF PLAYER
 - Interests: Video games, music, football,read and write
 
-## CVES Rewritten 🧑‍🚀 
+## CVES Rewritten 🚀
 
 - [CVE-2017-5487](https://github.com/Jhonsonwannaa/CVE-2017-5487)
 - [cve-2021-42013-apache](https://github.com/Jhonsonwannaa/cve-2021-42013-apache)
