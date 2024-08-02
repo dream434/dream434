@@ -22,12 +22,12 @@
 
 ## CVES Rewritten 🧑‍🚀 
 
-- [Outil 1](https://github.com/Jhonsonwannaa/CVE-2017-5487)
-- [Outil 2](https://github.com/Jhonsonwannaa/cve-2021-42013-apache)
-- [Outil 3](https://github.com/Jhonsonwannaa/CVE-2023-27372/)
-- [Outil 4](https://github.com/Jhonsonwannaa/CVE-2024-6387/)
-- [Outil 5](https://github.com/Jhonsonwannaa/CVE-2024-29269)
-- [Outil 6](https://github.com/Jhonsonwannaa/CVE-2024-31819)
+- [CVE-2017-5487](https://github.com/Jhonsonwannaa/CVE-2017-5487)
+- [cve-2021-42013-apache](https://github.com/Jhonsonwannaa/cve-2021-42013-apache)
+- [CVE-2023-27372](https://github.com/Jhonsonwannaa/CVE-2023-27372/)
+- [CVE-2024-6387](https://github.com/Jhonsonwannaa/CVE-2024-6387/)
+- [CVE-2024-29269](https://github.com/Jhonsonwannaa/CVE-2024-29269)
+- [CVE-2024-31819](https://github.com/Jhonsonwannaa/CVE-2024-31819)
 
 ## Skills 🔭
 - Programming languages: python, bash, C
