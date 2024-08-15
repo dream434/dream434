@@ -41,7 +41,13 @@
 - GRAPHISTE
 - IT SUPPORT
 
+ ## CTF PROFILS 🏁
+
+🏅[Root-me](https://www.root-me.org/jhon12)
+🏅[PicoCTF](https://play.picoctf.org/users/jhonson1212)
+
 ## Contact Me 📲
  📧[Email](mailto:wannaajhonson@gmail.com)  
  ⓕ [Facebook](https://web.facebook.com/profile.php?id=100083403293002)
+ 
 
