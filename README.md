@@ -29,6 +29,7 @@
 - [CVE-2024-6387](https://github.com/Jhonsonwannaa/CVE-2024-6387/)
 - [CVE-2024-29269](https://github.com/Jhonsonwannaa/CVE-2024-29269)
 - [CVE-2024-31819](https://github.com/Jhonsonwannaa/CVE-2024-31819)
+-  [CVE-2024-34102](https://github.com/Jhonsonwannaa/CVE-2024-34102/)
 
  ## Tools
  
