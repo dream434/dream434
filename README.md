@@ -1,6 +1,8 @@
 ## Presentation 🙂
 
-Hello everyone, my name is Jonathan (jhonson or jon), I am passionate about cybersecurity and programming, I am originally from the Democratic Republic of Congo, also studying in Master Networks and Telecommunications.
+Hi all
+My name is Jonathan (you can call me Jhonson or Jon). I am passionate about cybersecurity and programming.
+Originally from the Democratic Republic of Congo, I hold a graduate degree in computer networks. Currently, I am pursuing my studies at the master's level in Networks and Telecommunications.
 
 ## CVES Rewritten 🚀
 
