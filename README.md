@@ -32,7 +32,7 @@ Hello everyone, my name is Jonathan(jhonson or jon) , I am passionate about cybe
 🏅[PicoCTF](https://play.picoctf.org/users/jhonson1212)
 
 ## Contact Me 📲
- 📧[Email](mailto:wannaajhonson@gmail.com)  
- ⓕ [Facebook](https://web.facebook.com/profile.php?id=100083403293002)
+ 📧[Email](mailto:jonathan.jon1224@gmail.com)  
+ 
  
 
