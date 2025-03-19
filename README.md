@@ -24,13 +24,13 @@ I invite you to visit the site above, where I share more about my story and expe
 - [CVE-2024-6387](https://github.com/dream434/CVE-2024-6387/)
 - [CVE-2024-29269](https://github.com/dream434/CVE-2024-29269)
 - [CVE-2024-31819](https://github.com/dream434/CVE-2024-31819)
--  [CVE-2024-34102](https://github.com/dream434/CVE-2024-34102/)
+- [CVE-2024-34102](https://github.com/dream434/CVE-2024-34102/)
 
  ## Tools 🧰
  
 - [SubdomainFinder.apk](https://drive.google.com/file/d/1Wl_JbED_TJi-ikgyFhktCeYxROveZhU9/view?usp=drive_link)
 - [SearchFile.apk](https://drive.google.com/file/d/1oMyGvd40n4MTPEubMMYD4sF_mctan7e2/view?usp=drive_link)
-- [Opeen-redirect](https://github.com/dream434/Open-redirect)
+- [Open-redirect](https://github.com/dream434/Open-redirect)
   
 ## Skills 🔭
 - Programming languages: python, bash, C
