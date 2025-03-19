@@ -18,7 +18,7 @@ I invite you to visit the site above, where I share more about my story and expe
 ## CVES Rewritten 🚀
 
 - [CVE-2017-5487](https://github.com/dream434/CVE-2017-5487)
-- [CVE-2017-9841-](https://github.com/dream434/CVE-2017-9841-)
+- [CVE-2017-9841-](https://github.com/dream434/CVE-2017-9841)
 - [cve-2021-42013-apache](https://github.com/dream434/cve-2021-42013-apache)
 - [CVE-2023-27372](https://github.com/dream434/CVE-2023-27372/)
 - [CVE-2024-6387](https://github.com/dream434/CVE-2024-6387/)
