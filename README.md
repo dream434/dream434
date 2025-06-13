@@ -7,14 +7,6 @@ Originally from the Democratic Republic of Congo, I hold a graduate degree in co
 I invite you to visit the site above, where I share more about my story and experiences.
 
 
-
-
-[Portflio.apk](https://drive.google.com/file/d/1Pk_mAh3qxhNnD2bw5wtXLpBMqSTkivT5/view?usp=drive_link)
-
-
-
-
-
 ## CVES Rewritten 🚀
 
 - [CVE-2017-5487](https://github.com/dream434/CVE-2017-5487)
