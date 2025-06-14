@@ -33,7 +33,8 @@ I invite you to visit the site above, where I share more about my story and expe
 ## Frameworks & outils 🧰
 
 - Flutter
-- Flask 
+- Flask
+- Kivy
 
 ## Mobile 📱 📱
 
