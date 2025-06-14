@@ -25,10 +25,19 @@ I invite you to visit the site above, where I share more about my story and expe
 - [Open-redirect](https://github.com/dream434/Open-redirect)
   
 ## Skills 🔭
-- Programming languages: python, bash, C
+- Programming languages: python, bash, C, dart ,JavaScript, HTML/CSS
 - SENIOR PENTESTER
 - GRAPHISTE
 - IT SUPPORT
+  
+## Frameworks & outils 🧰
+
+- Flutter
+- Flask 
+
+## Mobile 📱 📱
+
+- Développement d’applications mobiles multiplateformes avec Flutter (iOS / Android)
 
  ## CTF PROFILS 🏁
 
