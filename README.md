@@ -38,8 +38,7 @@ I invite you to visit the site above, where I share more about my story and expe
 
 ## Mobile 📱 📱
 
-- Développement d’applications mobiles multiplateformes avec Flutter (iOS / Android)
-
+- Cross-platform mobile application development with Flutter (iOS / Android)
  ## CTF PROFILS 🏁
 
 🏅[Root-me](https://www.root-me.org/jhon12)
