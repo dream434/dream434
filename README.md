@@ -53,7 +53,7 @@ I'm currently pursuing a **Master's in ARGBD** and actively working on cybersecu
 </p>
 
 <p align="center">
-  <b>📦 Une application Flutter conçue avec soin... bientôt disponible sur GitHub !</b>
+  <b>📦 Une application de reconnaissance conçue avec soin ... bientôt disponible sur GitHub !</b>
 </p>
 
 
