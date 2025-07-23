@@ -46,7 +46,7 @@ I'm currently pursuing a **Master's in ARGBD** and actively working on cybersecu
 ## 📱 Flutter App Preview (Bientôt disponible)
 
 <p align="center">
-  <img src="" alt="App Screenshot 1" width="22%" />
+  <img src="Screenshot_20250723-123940.png" alt="App Screenshot 1" width="22%" />
   <img src="" alt="App Screenshot 2" width="22%" />
   <img src="" alt="App Screenshot 3" width="22%" />
   <img src="" alt="App Screenshot 4" width="22%" />
