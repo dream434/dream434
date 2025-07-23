@@ -41,6 +41,21 @@ I'm currently pursuing a **Master's in ARGBD** and actively working on cybersecu
 - 🚪 **[Open Redirect Scanner](https://github.com/dream434/Open-redirect)**
 
 ---
+---
+
+## 📱 Flutter App Preview (Bientôt disponible)
+
+<p align="center">
+  <img src="" alt="App Screenshot 1" width="22%" />
+  <img src="" alt="App Screenshot 2" width="22%" />
+  <img src="" alt="App Screenshot 3" width="22%" />
+  <img src="" alt="App Screenshot 4" width="22%" />
+</p>
+
+<p align="center">
+  <b>📦 Une application Flutter conçue avec soin... bientôt disponible sur GitHub !</b>
+</p>
+
 
 ## 💼 Skills
 
