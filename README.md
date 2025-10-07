@@ -36,9 +36,7 @@ I'm currently pursuing a **Master's in ARGBD** and actively working on cybersecu
 
 ## 🛠️ Custom Tools
 
-- 📱 **[SubdomainFinder.apk](https://drive.google.com/file/d/1Wl_JbED_TJi-ikgyFhktCeYxROveZhU9/view?usp=drive_link)**  
-- 🔍 **[SearchFile.apk](https://drive.google.com/file/d/1oMyGvd40n4MTPEubMMYD4sF_mctan7e2/view?usp=drive_link)**  
-- 🚪 **[Open Redirect Scanner](https://github.com/dream434/Open-redirect)**
+- 📱 **[reconpenmobileapp](https://github.com/dream434/reconpen/)**   
 - **[cvgenrator](http://cvgenrator.wuaze.com/mobile/mobiles/)**
 - **[ocrsite](http://ocrsite.wuaze.com/corrector/?i=1)**
 
