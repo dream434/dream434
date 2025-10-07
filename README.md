@@ -51,7 +51,7 @@ I'm currently pursuing a **Master's in ARGBD** and actively working on cybersecu
 
 
 <p align="center">
-  <b>📦 A carefully designed recognition app... coming soon to GitHub !</b>
+  <b>📦 A carefully designed recognition app...!</b>
 </p>
 
 
